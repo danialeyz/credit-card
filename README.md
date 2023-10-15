@@ -22,7 +22,7 @@ This project aims to create an interactive credit card component for bank applic
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository
 
 2. Open the `index.html` file in your preferred web browser.
 
